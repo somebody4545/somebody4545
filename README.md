@@ -6,7 +6,7 @@
 - 😨 if you came here from scratch I am indeed qwerty4545!
 
 [![My GitHub Language Stats](https://raw.githubusercontent.com/somebody4545/e/af8bd082d29f93a1889216beb512337ab53c0f26/generated/languages.svg?token=AS37ODVQTCBYNSKV7KJH2FDAX6KIY)]()
-[![My GitHub Stats (longer)](https://raw.githubusercontent.com/somebody4545/e/af8bd082d29f93a1889216beb512337ab53c0f26/generated/overview.svg?token=AS37ODWEFUXNWGP34QD33W3AX6KK4)]()
+[![My GitHub Stats (longer)](https://github.com/somebody4545/e/blob/master/generated/overview.svg)]()
 <!---
 somebody4545/somebody4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
