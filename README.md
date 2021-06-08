@@ -5,8 +5,6 @@
 - 📫 How to reach me: https://dsc.gg/galaxite for discord server
 - 😨 if you came here from scratch I am indeed qwerty4545!
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=somebody4545&count_private=true&showicons=true)]()
 [![My GitHub Language Stats](https://raw.githubusercontent.com/somebody4545/e/master/generated/languages.svg?token=AS37ODWUD54AE4FPRRLUWZLAX6IOG)]()
 [![My GitHub Stats (longer)](https://raw.githubusercontent.com/somebody4545/e/af8bd082d29f93a1889216beb512337ab53c0f26/generated/overview.svg?token=AS37ODWNNKWBYZJNXJ2HVNTAX6IRA)]()
 <!---
