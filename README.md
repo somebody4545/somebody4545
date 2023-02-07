@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @somebody4545
-- 🙂 I help develop galaxite and stuff like that :)
-- 🤨 I do make a ton of python projects, but most are private and tucked away. The webpages on my site are quite old too!
-- 🌱 I’m currently learning machine learning, and maybe Unity/!?!1/1
-- 📫 How to reach me: https://dsc.gg/galaxite for discord server
-- 😨 if you came here from scratch I am indeed qwerty4545!
+ ## Hi!
+ 
+
+ - This github contains most of my coding projects (obviously)
+ - I mainly code in Python, but also have a good amount of experience with Java, C#, and web design
+ - I'm also in a robotics team (FTC 21370)
+ - The best ways to contact me are through Discord [here](https://discord.com/users/697913907528073296) and by email [here](mailto:somebody.4545@outlook.com)
 
 [![My GitHub Language Stats](https://github.com/somebody4545/e/blob/master/generated/languages.svg)]()
 [![My GitHub Stats (longer)](https://github.com/somebody4545/e/blob/master/generated/overview.svg)]()
