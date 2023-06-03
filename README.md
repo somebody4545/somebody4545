@@ -3,7 +3,6 @@
 
  - This github contains most of my coding projects (obviously)
  - I mainly code in Python, but also have a good amount of experience with Java, C#, and web design
- - I also compete in robotics [@built-diff](https://www.github.com/built-diff)
  - My hobbies are soccer, 3d printing, and playing the guitar
  - The best ways to contact me are through Discord [here](https://discord.com/users/697913907528073296) and by email [here](mailto:somebody.4545@outlook.com)
 
