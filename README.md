@@ -1,7 +1,6 @@
  ## Hi!
  
 
- - This github contains most of my coding projects (obviously)
  - I work with full stack web development, Python, and Java, but also have experience in game design with C# and making bots for Discord using discord.py
  - Currently volunteering for web development at Ignite Robotics
  - My hobbies are soccer, 3d printing, and playing the guitar
