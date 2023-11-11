@@ -9,4 +9,4 @@
  - My hobbies are soccer, 3d printing, and playing the guitar
  - The best ways to contact me are through Discord [here](https://discord.com/users/697913907528073296) and by email [here](mailto:somebody.4545@outlook.com)
 
-![](https://raw.githubusercontent.com/somebody4545/github-stats-new/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/somebody4545/github-stats-new/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/somebody4545/github-stats-new/master/generated/languages.svg#gh-dark-mode-only)
