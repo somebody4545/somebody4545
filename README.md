@@ -1,5 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=somebody4545&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=somebody4545&theme=darkhub&row=1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
  ## Hi!
  
