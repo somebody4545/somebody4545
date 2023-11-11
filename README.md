@@ -8,5 +8,3 @@
  - Currently volunteering for web development at Ignite Robotics
  - My hobbies are soccer, 3d printing, and playing the guitar
  - The best ways to contact me are through Discord [here](https://discord.com/users/697913907528073296) and by email [here](mailto:somebody.4545@outlook.com)
-
-![My GitHub Stats (longer)](https://github.com/somebody4545/e/blob/master/generated/overview.svg)
