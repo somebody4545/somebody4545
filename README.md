@@ -4,7 +4,7 @@
 </p>
 <br>
 <br>
-## Hi!
+<h1>Hi!</h1>
 <ul style="padding-left: 25%; padding-right: 25%;">
  <li>I work with full stack web development (MERN Stack), Python, and Java, but also have experience in game design with C# and making bots for Discord using discord.py</li>
  <li>Currently volunteering for web development at Ignite Robotics</li>
