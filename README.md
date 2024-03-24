@@ -1,9 +1,4 @@
-<h1></h1><br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somebody4545&theme=darkhub&row=1&no-frame=true&no-bg=true" alt="My Github Stats"/>
-</p><h1></h1>
-<br>
-<br>
+
 <h3>Hi!</h3>
 <ul style="padding-left: 25%; padding-right: 25%;">
  <li>I work with full stack web development (MERN Stack), Python, and Java, but also have experience in game design with C#, making bots for Discord using discord.py, and Flutter</li>
