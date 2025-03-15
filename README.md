@@ -7,7 +7,7 @@
 
 <h2>My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,react,nextjs,express,mongodb,unity,blender,aws)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,py,react,nextjs,express,mongodb,unity,blender,aws)](https://skillicons.dev) 
 
 <h2>OS</h2>
 
