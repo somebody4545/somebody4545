@@ -16,6 +16,10 @@
 <h2>IDEs</h2>
 
 [![IDEs](https://skillicons.dev/icons?i=vscode,webstorm,androidstudio,pycharm,eclipse)](https://skillicons.dev) 
+<h1></h1>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=somebody4545&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br><h1></h1>
 <br>
