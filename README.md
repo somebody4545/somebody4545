@@ -7,7 +7,7 @@
 
 <h2>My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,py,react,nextjs,express,mongodb,unity,blender,aws)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,py,react,nextjs,threejs,express,mongodb,unity,blender,aws,figma)](https://skillicons.dev) 
 
 <h2>OS</h2>
 
@@ -16,6 +16,12 @@
 <h2>IDEs</h2>
 
 [![IDEs](https://skillicons.dev/icons?i=vscode,webstorm,androidstudio,pycharm,eclipse)](https://skillicons.dev) 
+
+<h2>Other things I work with</h2>
+
+[![IDEs](https://skillicons.dev/icons?i=discord,bots,flutter,ai,ps,cloudflare,nginx)](https://skillicons.dev) 
+
+
 <h1></h1>
 <br>
 
