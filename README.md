@@ -20,7 +20,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Womp](https://img.shields.io/badge/Womp-FF00AA?style=for-the-badge)
+![Womp](https://img.shields.io/badge/Womp-5247e2?style=for-the-badge)
 ![Onshape](https://img.shields.io/badge/Onshape-0F6CBD?style=for-the-badge)
 
 ## OS
