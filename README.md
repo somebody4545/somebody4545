@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=049ef4&style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
@@ -28,14 +28,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-ffffff?logo=apple&logoColor=black&style=for-the-badge)
 
 ## IDEs
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge)
+![WebStorm](https://img.shields.io/badge/WebStorm-0887ff?logo=webstorm&logoColor=fff308&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-13ad6e?logo=pycharm&logoColor=fff308&style=for-the-badge)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
 
 ## Other Things I Work With
