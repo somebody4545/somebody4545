@@ -1,8 +1,10 @@
 <br>
 
-<h3>Hi!</h3>
+### h
 <ul style="padding-left: 25%; padding-right: 25%;">
- <li>The best ways to contact me are through Discord <a href="https://discord.com/users/697913907528073296">here</a> and by email <a href="mailto:somebody.4545@outlook.com">here</a></li>
+ <li>I build things for people. Nothing in particular, but a good amount of full-stack websites and tools. 
+ <li>Experimenting a ton with 3d
+ <li>If you want to contact me, just drop an email at me@ineshd.com. I'll get to it fairly quick
 </ul>
 
 
