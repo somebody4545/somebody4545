@@ -30,13 +30,18 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
 ![macOS](https://img.shields.io/badge/macOS-ffffff?logo=apple&logoColor=black&style=for-the-badge)
 
-## IDEs
+## IDEs / Tools
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![WebStorm](https://img.shields.io/badge/WebStorm-0887ff?logo=webstorm&logoColor=fff308&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-13ad6e?logo=pycharm&logoColor=fff308&style=for-the-badge)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=white&style=for-the-badge)
+![Gephi](https://img.shields.io/badge/Gephi-2C3E50?logo=gephi&logoColor=white&style=for-the-badge)
+
 
 ## Other Things I Work With
 
