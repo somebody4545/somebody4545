@@ -8,7 +8,7 @@
 </ul>
 
 
-# My Skills
+# Things I've worked with
 
 ### Programming languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
