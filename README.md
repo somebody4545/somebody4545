@@ -70,7 +70,8 @@
 <br><h1></h1>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/somebody4545/github-stats-new/master/generated/overview.svg#gh-dark-mode-only" alt="My Github Stats"/>
-  <img src="https://raw.githubusercontent.com/somebody4545/github-stats-new/master/generated/languages.svg#gh-dark-mode-only" alt="My Github Stats"/>
+ 
+  <img src="https://github.com/somebody4545/github-stats-new/blob/master/generated/languages.svg" alt="My Github Stats"/>
+  <img src="https://github.com/somebody4545/github-stats-new/blob/master/generated/overview.svg" alt="My Github Stats"/>
 </p>
 <h1></h1>
